@@ -50,4 +50,5 @@ p { line-height: 1.8; margin-top: 15px;}
 
 footer { background: linear-gradient(90deg, #b30000, #ff2a00, #b30000); padding: 16px; text-align: center; color: white; box-shadow: 0 0 20px red;}
 
-iframe { display: block; margin: 0 auto;}
+iframe { display: block; margin: 25px auto; box-shadow: 0 0 25px red; border-radius: 12px;}
+
